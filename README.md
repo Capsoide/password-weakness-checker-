@@ -55,11 +55,6 @@ Questa applicazione è stata sviluppata da **Nicola Capancioni** ed è progettat
   - **Rosso** per password deboli.
   - **Verde** per password forti.
 
-
-## Licenza
-
-Questo progetto è rilasciato sotto la licenza MIT. Consulta il file [LICENSE](LICENSE) per ulteriori dettagli.
-
 ---
 
 Sviluppato da **Nicola Capancioni** 💻
