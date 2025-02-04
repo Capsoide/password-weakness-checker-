@@ -55,9 +55,6 @@ Questa applicazione è stata sviluppata da **Nicola Capancioni** ed è progettat
   - **Rosso** per password deboli.
   - **Verde** per password forti.
 
-## Screenshot
-
-![Screenshot dell'applicazione](screenshot.png)
 
 ## Licenza
 
