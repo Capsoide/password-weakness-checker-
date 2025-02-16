@@ -25,7 +25,7 @@ Questa applicazione è stata sviluppata da **Nicola Capancioni** ed è progettat
 3. **Aggiungi il file delle password comuni**:
    Scarica `rockyou.txt` e posizionalo nella directory corretta:
    ```
-   C:\\Users\\nicol\\desktop\\pypsw\\rockyou.txt
+   C:\\tuopercorso\\rockyou.txt
    ```
    Se desideri utilizzare un percorso diverso, modifica il percorso nel codice.
 
